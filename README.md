@@ -1,7 +1,5 @@
 ### Global Terrorism EDA (Exploratory Data Analysis) Project
 
-Here’s a GitHub README template for your project:
-
 ---
 
 # **Global Terrorism - Exploratory Data Analysis (EDA)**
@@ -40,7 +38,7 @@ Follow these steps to set up the project on your local system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/global-terrorism-eda.git
+   git clone https://github.com/anmol2517/Global-Terrorism-EDA.git
    cd global-terrorism-eda
    ```
 
