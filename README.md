@@ -23,6 +23,8 @@ Terrorism is one of the most pressing issues in the world today. Through this pr
 ---
 
 ## **Dataset**
+>> Dataset Link: https://bit.ly/2TK5Xn5
+
 - **Source:** [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/)
 - **Description:** The dataset contains detailed information about terrorist events worldwide from 1970 to the most recent year available.
 - **Attributes:** Includes information such as attack type, target type, region, country, year, fatalities, injuries, and more.
