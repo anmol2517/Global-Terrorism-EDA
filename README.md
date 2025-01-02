@@ -4,46 +4,42 @@
 ### Context
 >> Information on more than 180,000 Terrorist Attacks
 
-The Global Terrorism Database (GTD) is an open-source database that includes information on terrorist attacks around the world from 1970 through 2017. It includes systematic data on domestic and international terrorist incidents that occurred during this time period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
+The Global Terrorism Database (GTD) is an open-source database that includes information on terrorist attacks worldwide from 1970 through 2017. It includes systematic data on domestic and international terrorist incidents that occurred during this time period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
 
 ### Content
 Geography: Worldwide
->> Time period: 1970-2017, except 1993
-Unit of analysis: Attack
->> 
-Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes
+>> Time period: 1970-2017, except 1993 | Unit of analysis: Attack
+>> Variables: 100 variables on location, tactics, perpetrators, targets, and outcomes
 
-Sources: Unclassified media articles (Note: Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions and data collection is influenced by fluctuations in access to media coverage over both time and place.)
+Sources: Unclassified media articles (Note: Please carefully interpret changes over time. Global patterns are driven by diverse trends in particular regions and data collection is influenced by fluctuations in access to media coverage over both time and place).
 
 ### Definition of terrorism:
 "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
 ### Acknowledgements
-The Global Terrorism Database is funded through START, by the US Department of State (Contract Number: SAQMMA12M1292) and the US Department of Homeland Security Science and Technology Directorate’s Office of University Programs (Award Number 2012-ST-061-CS0001, CSTAB 3.1). The coding decisions and classifications contained in the database are determined independently by START researchers and should not be interpreted as necessarily representing the official views or policies of the United States Government.
+The Global Terrorism Database is funded through START, by the US Department of State (Contract Number: SAQMMA12M1292) and the US Department of Homeland Security Science and Technology Directorate’s Office of University Programs (Award Number 2012-ST-061-CS0001, CSTAB 3.1). The coding decisions and classifications contained in the database are determined independently by START researchers. They should not be interpreted as necessarily representing the official views or policies of the United States Government.
 
 ### Terms of Use // TERMS AND CONDITIONS
-
 GTD means Global Terrorism Database data and the online user interface (www.start.umd.edu/gtd) produced and maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START). This includes the data and codebook, any auxiliary materials present, and the user interface by which the data are presented.
 
-LICENSE GRANT. University hereby grants You a revocable, non-exclusive, non-transferable right and license to access the GTD and use the data, the codebook, and any auxiliary materials solely for non-commercial research and analysis.
+### Restrictions
+You agree to NOT:
+- publicly post or display the data, the codebook, or any auxiliary materials without express written permission by the University of Maryland (this excludes publication of analysis or visualization of the data for non-commercial purposes).
+- sell, license, sublicense, or otherwise distribute the data, the codebook, or any auxiliary materials to third parties for cash or other considerations.
+- modify, hide, delete, or interfere with any notices that are included on the GTD the codebook, or any auxiliary materials.
+- use the GTD to conclude the official legal status or criminal record of an individual, or the status of a criminal or civil investigation.
+- interfere with or disrupt the GTD website or servers and networks connected to the GTD website, or use robots, spiders, crawlers, automated devices, and similar technologies to screen-scrape the site or to engage in data aggregation or indexing of the data, the codebook, or any auxiliary materials other than in accordance with the site’s robots.txt file.
+- 
+### Your Responsibilities
+- All information sourced from the GTD should be acknowledged and cited as follows: "National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland. (2018). The Global Terrorism Database (GTD) [Data file]. Retrieved from https://www.start.umd.edu/gtd".
+- You agree to acknowledge any copyrightable materials with a copyright notice “Copyright University of Maryland 2018.”
+- Any modifications You make to the GTD for published analysis must be clearly documented and must not misrepresent analytical decisions made by START.
+- You agree to seek out an additional agreement in order to use the GTD, the data, the codebook, or auxiliary materials for commercial purposes, or to create commercial products or services based on the GTD, the data, the codebook, or auxiliary materials.
 
-RESTRICTIONS. You agree to NOT:
-a. publicly post or display the data, the codebook, or any auxiliary materials without express written permission by the University of Maryland (this excludes publication of analysis or visualization of the data for non-commercial purposes);
-b. sell, license, sublicense, or otherwise distribute the data, the codebook, or any auxiliary materials to third parties for cash or other considerations;
-c. modify, hide, delete, or interfere with any notices that are included on the GTD the codebook, or any auxiliary materials;
-d. use the GTD to conclude the official legal status or criminal record of an individual, or the status of a criminal or civil investigation;
-e. interfere with or disrupt the GTD website or servers and networks connected to the GTD website; or
-f. use robots, spiders, crawlers, automated devices, and similar technologies to screen-scrape the site or to engage in data aggregation or indexing of the data, the codebook, or any auxiliary materials other than in accordance with the site’s robots.txt file.
+### Intellectual Property
+The University owns all rights, titles, and interests in the GTD, the data and codebook, and all auxiliary materials. This EULA does not grant You any rights, title, or interests in the GTD or the data, the codebook, user interface, or any auxiliary materials other than those expressly granted to you under this EULA.
 
-YOUR RESPONSIBILITIES:
-a. All information sourced from the GTD should be acknowledged and cited as follows: "National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland. (2018). The Global Terrorism Database (GTD) [Data file]. Retrieved from https://www.start.umd.edu/gtd"
-b. You agree to acknowledge any copyrightable materials with a copyright notice “Copyright University of Maryland 2018.”
-c. Any modifications You make to the GTD for published analysis must be clearly documented and must not misrepresent analytical decisions made by START.
-d. You agree to seek out an additional agreement in order to use the GTD, the data, the codebook, or auxiliary materials for commercial purposes, or to create commercial products or services based on the GTD, the data, the codebook, or auxiliary materials.
-
-INTELLECTUAL PROPERTY. The University owns all rights, titles, and interests in the GTD, the data and codebook, and all auxiliary materials. This EULA does not grant You any rights, title, or interests in the GTD or the data, the codebook, user interface, or any auxiliary materials other than those expressly granted to you under this EULA.
-
-DISCLAIMER AND LIMITATION ON LIABILITY.
+### DISCLAIMER AND LIMITATION ON LIABILITY.
 a. THE GTD, THE CODEBOOK, USER INTERFACE, OR ANY AUXILIARY MATERIALS ARE MADE AVAILABLE ON AN "AS IS" BASIS. UNIVERSITY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES – WHETHER EXPRESS OR IMPLIED, ORAL OR WRITTEN, IN FACT, OR ARISING BY OPERATION OF LAW – CONCERNING THE GTD, THE CODEBOOK, AND ANY AUXILIARY MATERIALS INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF THE INTELLECTUAL PROPERTY OR PROPRIETARY RIGHTS OF ANY THIRD PARTY. UNIVERSITY MAKES NO REPRESENTATION OR WARRANTY THAT THE GTD, THE CODEBOOK, ANY AUXILIARY MATERIALS, OR THE USER INTERFACE WILL OPERATE ERROR-FREE OR IN AN UNINTERRUPTED FASHION.
 
 b. In no event will the University be liable to You for any incidental, special, punitive, exemplary, or consequential damages of any kind, including lost profits or business interruption, even if advised of the possibility of such claims or demands, whether in contract, tort, or otherwise, arising in connection with Your access to and use of the GTD, the codebook, user interface, or any auxiliary materials or other dealings. This limitation upon damages and claims is meant to apply without considering whether other provisions of this EULA have been breached or proven ineffective. In no event will the University’s total liability for the breach or nonperformance of this EULA exceed the fees paid to the University within the current billing cycle.
@@ -52,13 +48,14 @@ c. Every reasonable effort has been made to check sources and verify facts in th
 
 d. The university is under no obligation to update the GTD, the codebook, the user interface, or any auxiliary materials.
 
-INDEMNITY. You hereby agree to defend, indemnify, and hold harmless the University and its employees, agents, directors, and officers from and against any and all claims, proceedings, damages, injuries, liabilities, losses, costs, and expenses (including reasonable attorneys’ fees and litigation expenses) relating to or arising out of Your use of the GTD, the codebook, or any auxiliary materials or Your breach of any term in this EULA.
+### INDEMNITY
+You hereby agree to defend, indemnify, and hold harmless the University and its employees, agents, directors, and officers from and against any and all claims, proceedings, damages, injuries, liabilities, losses, costs, and expenses (including reasonable attorneys’ fees and litigation expenses) relating to or arising out of Your use of the GTD, the codebook, or any auxiliary materials or Your breach of any term in this EULA.
 
-TERM AND TERMINATION
+### TERM AND TERMINATION
 a. This EULA and your right to access the GTD website and use the data, the codebook, and any auxiliary materials will take effect when you access the GTD.
 b. University reserves the right, at any time and without prior notice, to modify, discontinue, or suspend, temporarily or permanently, Your access to the GTD website (or any part thereof) without liability to You.
 
-MISCELLANEOUS
+### MISCELLANEOUS
 a. The University may modify this EULA at any time. Could you check the GTD website for modifications?
 b. No term of this Agreement can be waived except by the written consent of the party waiving compliance.
 c. If any provision of this EULA is determined by a court of competent jurisdiction to be void, invalid, or otherwise unenforceable, such determination shall not affect the remaining provisions of this Agreement.
