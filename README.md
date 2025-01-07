@@ -2,8 +2,10 @@
 
 An insightful data analysis project to understand global terrorism trends using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. This project utilizes the **Global Terrorism Database (GTD)** to visualize and interpret patterns, impacts, and statistics related to terrorism worldwide.
 
->> Datasets Link: https://bit.ly/2TK5Xn5   -->>   "Click or copy-paste the link into your browser to view the datasets."
-
+>> Datasets Link: https://bit.ly/2TK5Xn5
+```
+"The link above provides access to the datasets | Click or copy-paste it into your browser to view them."
+```
 ---
 
 ## **Table of Contents**
