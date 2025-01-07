@@ -1,7 +1,9 @@
 # **Global Terrorism - Exploratory Data Analysis (EDA)**
 
 An insightful data analysis project to understand global terrorism trends using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. This project utilizes the **Global Terrorism Database (GTD)** to visualize and interpret patterns, impacts, and statistics related to terrorism worldwide.
-
+```
+>> Dataset Link: https://bit.ly/2TK5Xn5
+```
 ---
 
 ## **Table of Contents**
@@ -23,7 +25,6 @@ Terrorism is one of the most pressing issues in the world today. Through this pr
 ---
 
 ## **Dataset**
->> Dataset Link: https://bit.ly/2TK5Xn5
 
 - **Source:** [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/)
 - **Description:** The dataset contains detailed information about terrorist events worldwide from 1970 to the most recent year available.
